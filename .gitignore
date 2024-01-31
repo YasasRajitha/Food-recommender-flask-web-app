@@ -1,0 +1,4 @@
+__pycache__/
+*.sh
+pre-processing/pre_csv/
+pre-processing/RAW_recipes.csv
